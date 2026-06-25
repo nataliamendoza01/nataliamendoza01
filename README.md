@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hola, soy Natalia Mendoza
 
 Soy estudiante de Ingeniería de Sistemas con interés en la ciberseguridad defensiva, enfocada en el monitoreo de eventos de seguridad, análisis de registros, detección de amenazas y respuesta a incidentes.
@@ -70,5 +70,4 @@ Actualmente fortalezco mis conocimientos en Security Operations Center (SOC), Bl
 ---
 
 > *"La ciberseguridad requiere aprendizaje constante, pensamiento analítico y compromiso con la mejora continua."*
-```
 
